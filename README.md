@@ -5,7 +5,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqpO-hEMyR97dtCi2XEBg0Q?style=social)](https://www.youtube.com/channel/UCqpO-hEMyR97dtCi2XEBg0Q)
 [![Instagram](https://img.shields.io/badge/Instagram-@irip23-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/irip23/)
 
-Soy Estudiante en una escuela secundaria de programación.
+Soy Estudiante en una tecnicatura de desarrollo web y aplicaciones digitales.
 
 He trabajado en distintos lenguajes de programación, llegando a realizar un curso de fullstack. 
 
