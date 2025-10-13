@@ -1,15 +1,16 @@
 # Hola, mi nombre es Irina Pirles 👋
-### Programming ♡
 
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqpO-hEMyR97dtCi2XEBg0Q?style=social)](https://www.youtube.com/channel/UCqpO-hEMyR97dtCi2XEBg0Q)
-[![Instagram](https://img.shields.io/badge/Instagram-@irip23-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/irip23/)
-
-Soy Estudiante en una tecnicatura de desarrollo web y aplicaciones digitales.
+Estudiante de la tecnicatura en Desarrollo Web y Aplicaciones Digitales.
 
 He trabajado en distintos lenguajes de programación, llegando a realizar un curso de fullstack. 
 
-Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio
+Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+
+## Habilidades adquiridas durante la cursada
+- Desarrollo web: HTML5, CSS3, JavaScript.
+- Bases de datos: SQL.
+- Programación general: Python.
+- Manejo de Git y GitHub.
 
 ## Lenguajes que uso:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
