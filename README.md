@@ -12,8 +12,30 @@ Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conm
 - Programación general: Python.
 - Manejo de Git y GitHub.
 
+## 📁 Mis Proyectos
+
+### 🚗 [Aquamovil](https://github.com/Proyecto-Integrador-I-ISPC/Full-Stack)
+Plataforma *on-demand* para la gestión de lavados de autos a domicilio con control de roles (Cliente, Operario, Admin), seguimiento de pedidos y pagos.
+* **Tecnologías:** Python, HTML5, CSS3, JavaScript
+* **Repositorio:** [Ver en GitHub](https://github.com/Proyecto-Integrador-I-ISPC/Full-Stack)
+
+---
+
+### 🐾 [HappyPets](https://github.com/Irinap34/HappyPets)
+Aplicación de consola (CLI) para la gestión de clientes, mascotas y reserva de turnos veterinarios.
+* **Tecnologías:** Python, SQL
+* **Repositorio:** [Ver en GitHub](https://github.com/Irinap34/HappyPets)
+
+---
+
+### 🩸 [SangreYa](https://github.com/AMMAIA-2026/Proyecto2026)
+Plataforma web SPA para la gestión de campañas de donación voluntaria de sangre, inscripciones y análisis estadístico.
+* **Frontend:** Angular, TypeScript, HTML5, CSS3
+* **Backend:** Django, Django REST Framework, Python
+* **Arquitectura:** SPA (Single Page Application), API REST
+* **Repositorio:** [Ver en GitHub](https://github.com/AMMAIA-2026/Proyecto2026)
+
 ## Lenguajes que uso:
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -22,6 +44,7 @@ Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conm
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-iRip23-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCqpO-hEMyR97dtCi2XEBg0Q)
-[![Instagram](https://img.shields.io/badge/Instagram-@irip23-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/irip23/)
+* 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/irina-pirles-9588802a0/)
+* 🐙 **GitHub:** [Github](https://github.com/Irinap34)
+
 
